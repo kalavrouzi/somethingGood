@@ -1,7 +1,5 @@
 <?php
 
-// Added for experimental reasons part 4 v.2
-
 // Use the following syntax:
 
 $q = 'SELECT col1, col2, col3 FROM table1 WHERE condition';
