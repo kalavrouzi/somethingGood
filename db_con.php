@@ -1,5 +1,5 @@
 <?php
-
+jnnknk niko
 //Define connection parameters:
 	
 $DBServer = 'server name or IP address'; // e.g 'localhost' or '192.168.1.100'
