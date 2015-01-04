@@ -1,6 +1,6 @@
 <?php
 
-dont do dump thing
+// dont do dump thing
 
 // Use the following syntax:
 
