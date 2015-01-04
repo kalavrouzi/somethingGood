@@ -1,6 +1,6 @@
 <?php
 
-// dont do dump thing nikola
+// dont do dump thing nikola vre oust
 
 // Use the following syntax:
 
