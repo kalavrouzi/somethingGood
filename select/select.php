@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 //trying some dump ideas v2 some new hahahaha
+=======
+//dont do dump thing
+>>>>>>> 773d652fb36033e17c64f01911b4ed1640482269
 
 // Use the following syntax:
 
