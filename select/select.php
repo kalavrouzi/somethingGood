@@ -1,6 +1,6 @@
 <?php
 
-// dont do dump thing nikola vre oust
+// dont do dump thing nm
 
 // Use the following syntax:
 
