@@ -1,6 +1,6 @@
 <?php
 
-//trying some dump ideas v2 some new
+//dont do dump thing
 
 // Use the following syntax:
 
