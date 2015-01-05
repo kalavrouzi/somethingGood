@@ -73,11 +73,6 @@ foreach($arr as $row) {
 // 						Example
 // ******************************************************* //
 
-$DBServer = 'db33.grserver.gr'; // e.g 'localhost' or '192.168.1.100'
-$DBUser   = 'foituseradmi';
-$DBPass   = '159spitaki823student';
-$DBName   = 'foititospitodbnewapp';
-
 $dbc = new mysqli($DBServer, $DBUser, $DBPass, $DBName);
 
 if($dbc->connect_error) {
